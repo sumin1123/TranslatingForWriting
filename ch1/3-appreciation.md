@@ -1,6 +1,6 @@
 我的错误类型：漏词、不会用介词（而、仍、却等）
 
-张：经常使用现代不常用的词汇
+张：经常使用现代不常用的词汇。直译的太多了，例如：Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.他的一切全是老的，除了他的眼睛，眼睛和海一个颜色，很愉快，没有战败过。
 
 余：文字简洁
 
@@ -90,3 +90,35 @@
 - 由于用绳拉鱼，产生双手的皱纹，这个意思没有翻译出来。
 - 余：拉打鱼一句，显得略像古文，不采用吧。
 - 张：被风沙侵蚀的地层，余：风蚀留痕。张句型：伤痕是古老的，像地层，余句型：伤痕像风蚀留痕一样古老。
+
+> Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
+> 关于老人的一切都是那么老，除了和大海一样颜色的眼睛，是那么的愉快与不服输。
+
+余：除了眼睛,xxxx，眼睛跟xxx，这样的句式，感觉两次说眼睛，中间用xxx一句话断开了。
+张：句式xxx，除了眼睛，眼睛和。讲眼睛的两句挨在一起。
+我：关于是个虚词，可以去掉。余：他身上处处，好于我：老人的一切。
+张：undefeated的翻译是没有战败过，实在和眼睛不好联想。余：坚定，表达了不服输的意思。
+
+修正译文：老人身上处处都是那么的苍老，除了眼睛，他的眼睛和海水的颜色一样，愉快而坚定。
+
+> "Santiago,” the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money. "
+
+The old man had taught the boy to fish and the boy loved him.
+
+"No,” the old man said. "You're with a lucky boat. Stay with them. "
+
+"But remember how you went eighty-seven days without fish and then we caught big ones every day for three weeks. "
+
+"I remember, "the old man said,"I know you did not leave me because you doubted. "
+
+"It was papa made me leave. I am a boy and I must obey him. "
+
+"I know," the old man said. "It is quite normal. "
+
+"He hasn't much faith. "
+
+"No," the old man said. "But we have. Haven't we?"
+
+"Yes," the boy said. "Can I offer you a beer on the Terrace and then we'll take the stuff home. "
+
+"Why not?" the old man said. "Between fishermen. "
