@@ -101,9 +101,18 @@
 
 修正译文：老人身上处处都是那么的苍老，除了眼睛，他的眼睛和海水的颜色一样，愉快而坚定。
 
-> "Santiago,” the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money. "
+> "Santiago,” the boy said to him as they climbed the bank from where the skiff was hauled up. "I could go with you again. We've made some money. " The old man had taught the boy to fish and the boy loved him.
+> “圣地亚哥”，男孩爬上停靠小船的岸边，“我可以和你一起去，我们去挣些钱。”是老人教会了男孩捕鱼，而且男孩爱他。
 
-The old man had taught the boy to fish and the boy loved him.
+苏：We've made some money.翻译错误，过去时。again 又字漏翻译，原文没有教会的意思，所以余的曾教比较好。 love 我改成 喜欢。
+余：把原文两端引号里的话，并未一句，挺好的。
+as they climbed 应该是爬的时候，男孩说话。这句我也漏译了。
+余：描述岸边比较简洁
+
+
+修正译文：男孩和他爬上了小船拖靠的海岸，对他说：“圣地亚哥，我又可以和你一起去了。我们赚了点钱”。老人曾经教男孩捕鱼，所以男孩很喜欢他。
+
+---
 
 "No,” the old man said. "You're with a lucky boat. Stay with them. "
 
