@@ -1,10 +1,18 @@
+我的错误类型：漏词、不会用介词（而、仍、却等）
+
+张：经常使用现代不常用的词汇
+
+余：文字简洁
+
+同：而、却等转义词用的很多，文章连贯且优美。
+
 > The Old Man And the Sea
 
 * 老人与海
 
 > He was an old man who fished alone in a skiff(小艇，小型帆船; 摩托小快艇;) in the Gulf Stream(墨西哥暖流) and he had gone eighty-four days now without taking a fish. 
-* alone in a skiff，孤独地划着一条小船，这个意思没有翻译出来。
-* 张译：他是一个老头子，显得不那么正经哟，我们常听死老头子之类的，保留自己老人的译法。余译：那老人独驾轻舟，好文艺，初看少了孤独的感觉。
+* alone in a skiff，孤独地划着一条小船，这个意思我没有翻译出来。
+* 张译：他是一个老头子，显得不那么正经哟，我们常听死老头子之类的，余译：那老人独驾轻舟，好文艺，初看少了孤独的感觉。保留自己老人的译法。
 * 张：在墨西哥湾大海流打鱼 VS 余：在墨西哥湾暖流里捕鱼。张：打鱼，余：捕鱼，感觉打鱼读声音来不如捕鱼悦耳，而且张在后面也用了捕鱼，仅此采用捕鱼。大海流一词现代不常用，采用暖流。初译：暖流中，余：暖流里，采用里，一种小船在海浪里面，很凶险的感觉。
 * 余：如今出海已有84天，仍是一鱼不获 VS 张：而他已经有84天没有捕到一条鱼了。原文：had gone 余译出了出海的意思，好一点。重要的是张用了而，余用了仍，加强了转折，出海那么多天，怎么一条鱼都没捕到呢？我自己的翻译，缺了这转折个意味。余中文功力深厚，文字简介，一鱼不获，我死也创造不出来，还是张的符合我的路数，采用。
 
@@ -16,7 +24,7 @@
 > In the first forty days a boy had been with him.
 
 * 张：在最初的40天里，余：开始的40天。最初更明确指出是84天里的1-40天，精确一点。里限定了这40天的时间段。
-* 张：有一个男孩和他在一起，余：有个男孩跟他同去。余的个比一个精简，跟也有跟随的意思，是好的地方。在一起 VS 同去，前半句采用了“在最初的四十天里”，是一个时间段，就不好用同去，采用在一起。
+* 张：有一个男孩和他在一起，余：有个男孩跟他同去。余精简，跟也有跟随的意思，是好的地方。在一起 VS 同去，前半句采用了“在最初的四十天里”，是一个时间段，就不好用同去，采用在一起。
 
 > 初译：在开始的十四天里，一个男孩在他船上帮忙。
 
@@ -70,6 +78,8 @@
 > 初译：船帆用面粉袋补过，看起来好像宣告彻底失败的白旗。
 
 - 修改译文：那帆用面口袋打着补丁，看起来像一面长败之旗。
+
+> The old man was thin and gaunt with deep wrinkles in the back of his neck. The brown blotches of the benevolent skin cancer the sun brings from its reflection on the tropic sea were on his cheeks. The blotches ran well down the sides of his face and his hands had the deep-creased scars from handling heavy fish on the cords. But none of these scars were fresh. They were as old as erosions in a fishless desert.
 
 - 张：老人瘦而憔悴，颈后有深的皱纹 VS 余：老人瘦削而憔悴，颈背皱纹深刻。初译：很瘦、很憔悴两个并列的词汇，忘了还有而来转折。余译简洁一些。
 - benevolent skin cancer 良性皮肤癌，没有翻译出来
